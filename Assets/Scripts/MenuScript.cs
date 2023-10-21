@@ -15,4 +15,7 @@ public void GameQuit(){
 public void GameRestart(){
     SceneManager.LoadSceneAsync(0);
 }
+public void Lore(){
+    SceneManager.LoadSceneAsync(4);
+}
 }

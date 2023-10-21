@@ -19,7 +19,7 @@ public class PlayerMove : MonoBehaviour
 
     void Start(){
       Object.DontDestroyOnLoad(gameObject);
-      HealthBar = Canvas.FindAnyObjectByType<Slider>();
+      HealthBar = GameObject.Find("PlayerSlider").GetComponent<Slider>();
       
     }
     void Update()

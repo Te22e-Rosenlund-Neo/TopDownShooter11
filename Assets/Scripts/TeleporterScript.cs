@@ -23,6 +23,7 @@ if(other.tag == Playertag){
     SceneManager.LoadScene(2);
     other.GetComponent<Transform>().position = new Vector2(0,-10);
     other.GetComponent<PlayerMove>().ChangeTargetedSlider = true;
+    other.GetComponent<PlayerMove>().PlayerHealth ++;
 }
 
 
