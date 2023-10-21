@@ -1,0 +1,3031 @@
+fileFormatVersion: 2
+guid: 54b5230bb769dc5448f429b4159d743c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: octonid_normals_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1230
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6aacacf12e3240b8e5c29ab2ad170
+      internalID: 1959945491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1230
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6941f57fd3bf5341b2ae65a81062125
+      internalID: 424551509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1230
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e500d09b7f932d418982988f0186142
+      internalID: 2112994844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1230
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3b5d2437aea94799c8f6ea93d7f4e
+      internalID: -911840539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1230
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc4168f51b3de4da16954e0c7dcd31
+      internalID: -1827042573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1230
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761d408a18882b40ae31186a14320c8
+      internalID: 1012160747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1230
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03346d09936ce6f4895420e7515fa3d3
+      internalID: 195069020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1230
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7386b1cb014ebb44a893587991ec775
+      internalID: -2105442902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1163
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0ec438ddd41448b7314034eeae5e7
+      internalID: 1756678322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1164
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d0b7fc43858a4697a93375ce5233a
+      internalID: -1441299557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1166
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0d478318c63c4c8b15dabe4cdbb49
+      internalID: -1179166535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1168
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bbbb3998b89574c8b2a1d41906e1bc
+      internalID: -442274610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1172
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caecfa21f0b31649bb24151481ab756
+      internalID: 603516060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1170
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a094470f953f43b80b008a6992fdc
+      internalID: -2036350984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1166
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719714178fa28cb40894af6c695c307a
+      internalID: 673851869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1164
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea730cc5c3434a48bb04dac8f3eb0fa
+      internalID: -1944421829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1100
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba317ad9d808b64395d5bb9e1c133a5
+      internalID: 721617351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1099
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb9fab466bc6054694d90bfcfc46814
+      internalID: -891842482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1099
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868c9e651c0bbf4cbe93ece7e8e26d4
+      internalID: -2135669806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1034
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc6f5c95513cd4b8d5891159cfa75b
+      internalID: -1275195356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1032
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837024d00e73c224eb3ead7e70b610e9
+      internalID: -452734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1032
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0f0e4ab1bbd94694563ab99b4b424
+      internalID: -107068827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1032
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53d62725f81504ba21c5d50e4ed7ec
+      internalID: 2083651319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1033
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6663e9e55301c47b794750522341bf
+      internalID: 1457094370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1035
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f89ee654a037b459e67c34ffdfc5f2
+      internalID: -353255515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1036
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf79564286f0674daa9d823610d5f4a
+      internalID: -123723696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 972
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c776083ad4db4ba2442054504df43
+      internalID: 1839018601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 971
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3e3775b0919d44845b1399e664832
+      internalID: -1614559672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 969
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd383550f8579f4f8d736f056c7288d
+      internalID: -1282398657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 968
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964236a207d3c7c4a96a5cccba85f1b8
+      internalID: -1842160108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 968
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd6d2c336fe7a648b51b81217fe8aad
+      internalID: -683722226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 968
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0f0595656490478589b03d6dd8c46
+      internalID: -136050544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 970
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5751dba5d82a540bf6fbd48e9c1ab2
+      internalID: 388860761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 910
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220c07643efd3242bcd9388f5e01a1b
+      internalID: 1245876971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 910
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043985ce494b4345ba253bb7167f61d
+      internalID: -811914430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 910
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee242b1d5aef8458600b3711f76688
+      internalID: 843529945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 910
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81fbb9b98b9e2498373c328c841829
+      internalID: 2126666859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 910
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc4f071532af1458bd0087cdccf032
+      internalID: -1252418175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 910
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb377883dca836145994b7c26322eafb
+      internalID: 137974821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 910
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf55cdc6bc77246a8ed331f31765e2
+      internalID: -717482935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_40
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 910
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e87cc7153c12174282db5801590fed5
+      internalID: -2036503066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 844
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6d4ea6308abd49b9ea39721c254fd
+      internalID: 335883600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 847
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2843d3fb9fb9544bd8c51a1ac86ae1
+      internalID: 439181832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 848
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57452cda8ad56a94ba8ea4e5c4fc5fc8
+      internalID: -700388326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 852
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2d0c594e7a864da80c60725bfb5f3
+      internalID: -502579006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 853
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc3b133708da94c90f3879cf0147b6
+      internalID: 1896000557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 851
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb516c1914fd1e4fac2327a46797d88
+      internalID: -215296946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 846
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bdb297c7304843a07cf04e02074c2
+      internalID: -629964400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 844
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af84ac9be5fc064e8df2ad800809d61
+      internalID: 425124168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 776
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3b72d47e1d1843b23c5016cd5d482
+      internalID: -274967552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 775
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e0b1908dff5142b14d65449a33c94
+      internalID: 839780760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 779
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fdb50657c2cb47aa2178ea90bd486
+      internalID: 498325842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 709
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb09126f32dcf847a993936bff986f2
+      internalID: -1290289778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 708
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a96d497abf0fce4f93df8dbd031b0d4
+      internalID: 67257700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 708
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249b96fa3a19c44c8159be63720365c
+      internalID: -903150970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 708
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d9ae6b80b01d4d80fa3db5d04ba19
+      internalID: -1256070859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 707
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d652d4534815d647b1781ca775daba1
+      internalID: 340872384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 713
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b189ce6b2a201e44bd96758d4e9046d
+      internalID: 1698940003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_58
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 714
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e00bb71604fb47b97b4a8abb3444b
+      internalID: 1192244662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 650
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874abccb356b0d40ad2eb1e1f79374a
+      internalID: 1131515177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 649
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ba6254e18cbb4087047cc546ae643
+      internalID: -452314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 643
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526d48d2728e18439caae4eed1887b6
+      internalID: 392840934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 644
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e45c901bb6d74468f90ad59812dbba
+      internalID: -1714530514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 644
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be262da15843141bad4b695dd87ea1
+      internalID: 1361870738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_64
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 644
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be15b6f2c9e8f4e85586e58779eb72
+      internalID: -219507340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_65
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 645
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25084042d2c2c35488cb10ea351af1c4
+      internalID: 349403364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 590
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee68659844559c4abaa5755c55efbab
+      internalID: -1420558292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 590
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0234d82c72a44a953c7f5a35a0df1
+      internalID: -1835702742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 590
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63160716d00beb4fb8883344667396b
+      internalID: 1501731741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 590
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a643e8516b7293146a0d7f58c594be0e
+      internalID: 1302192038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 590
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d49c3f82e553245a312c361746ed9b
+      internalID: -390142916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_71
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 590
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84619b80e995feb44b69c7f212524a17
+      internalID: -92980829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 590
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ef44fa8ddb11449a9f6e77fea208e1
+      internalID: 853683058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_73
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 590
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04870a88f16cc4f47be93fbe6b523c13
+      internalID: 1954401826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 526
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa282a6f19d6f084d8983f2ebce6bf27
+      internalID: -243874279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_75
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 526
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0906dd9b336314a97d63f1691efa31
+      internalID: -1536493025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 526
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652c2c780838b749a176d9e672bd32c
+      internalID: -1028695531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 528
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e95aeb7823990488c1bd051f2b0e5d
+      internalID: 1669955454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 529
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c455acb2930f5a419439f57a626460f
+      internalID: -1441846123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 529
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b4cba818c0edc4abde301cb95bae76
+      internalID: 854844235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 530
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fbd532b1154b4199a0c86ed0455dd
+      internalID: 1881967788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_81
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 528
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed73dc7d6c7f1c449ce0b5000149618
+      internalID: -381209176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 460
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24047fe2d9da84ea4e8a911761cd5b
+      internalID: -133458530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_83
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 459
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4416d343178047ab12bd03e754847
+      internalID: 1363261064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 464
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a571e4dd001c2d418841a2a2b662acb
+      internalID: -1543314325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 394
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef871e934398b4abb65dfee48fe208
+      internalID: -1265112354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 392
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4bfe8ee296f7439439827f67b6bb4
+      internalID: -1205202182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 392
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e6c5d876118784ca992a021f0604dd
+      internalID: -1392425929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 392
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f340486155be746ba0e77e1b5d970a
+      internalID: 748005736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 389
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c184bff6cfc14ebc39d48cb8f1339
+      internalID: 1271265987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 395
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572f223381fc22409a1f3446f34fd2d
+      internalID: 639968149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 396
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff14e22fc371424684e31691fc57900
+      internalID: 1256418769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_92
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 332
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b60ecc09b028f46ac4a8a0bb876b11
+      internalID: -498131300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_93
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 331
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da783d972ec0f44a65aeb85c57b69a
+      internalID: -1767621138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 325
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d896d22b87513c4c9302931fee46229
+      internalID: 1586976800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 328
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da9d8d136a47e4daa81c3e591701dc
+      internalID: 799849232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 328
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0fb5f3f4067c944aaef4cee0425eae
+      internalID: -946965265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 328
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c0d5a1d7fbaf49b289f4cde29ef5a
+      internalID: 1885317815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_98
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 330
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478ad75daba6f74884de0ad30a4d83f
+      internalID: 1174461238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 270
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf72d3bdfad8c3448144e199e5651b6
+      internalID: 1927798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 270
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95b4e0197345846a512b27d5059be9
+      internalID: -363064138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967c0e91fb920a478eaa486eba12e6f
+      internalID: -841823367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 270
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863f419da0affe4ba24a3beea467cab
+      internalID: -667248762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 270
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d5ecba7815a341999bcd4d8122686
+      internalID: 771810402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_104
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 270
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf680b23ae1ba41b64863a2db35e78
+      internalID: 2063851829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_105
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 270
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a3889f93a9df41ad3aad0c5dd0a55
+      internalID: -1842688606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_106
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 270
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f471e09dde57604f94377dae7390998
+      internalID: -1185124211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_107
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13a9e350cb1824bb23cdf2c3a7f096
+      internalID: -1640574596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_108
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 207
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae34f2b95abfdd44971b879ac1b80e4
+      internalID: 448285375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d4f4ec914971478efe9c366705e27
+      internalID: -1866728504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 212
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5f4aac657ac84d8c868d837db8f4f
+      internalID: 1812692846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 213
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d715de5204fdca449017f59e67cf8dd
+      internalID: 726266882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 211
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799876a3956a074a8c5f4925b094ae2
+      internalID: 454942859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_113
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 206
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a095f537fa8e44a6349e420fee1e4
+      internalID: -602003594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_114
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 204
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8f9aaf3abbb2439d2004a0ea26507
+      internalID: -281050571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_115
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 136
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3bf018f6e8dcc4496b88bbdb2a6eca
+      internalID: 254673430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_116
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f2fb45b3c57c340a46d2176a5f4044
+      internalID: -169909686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_117
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080869b043dc1c4e9bcef40b83e1ba4
+      internalID: -2021430586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_118
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 69
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19b9a2264403a4b8251db749231a77
+      internalID: 644408299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_119
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 68
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f3db32dd65504b9598ff9a2e4bff0
+      internalID: -1279977324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 68
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb39d69110f4447b73321653431e38
+      internalID: 328774118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_121
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 68
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbea22f1769aa5429be8fcbe2f2bd80
+      internalID: -1927809654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_122
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 67
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1b41a0a82ef94a981fdbab81bcdf1
+      internalID: 522855968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_123
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 73
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f5084b28259734cbd3c3025b6a018c
+      internalID: 358183437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 74
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1515d35a9c1cc49b5ccb76381becb1
+      internalID: 91411663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac331509112d38b4a9ab6cfce770ca4e
+      internalID: -1530240329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_126
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011e8366e1345743b0cb38ebe53b149
+      internalID: -827365462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08011b45cde8c554f802fea600adad72
+      internalID: -1047118265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_128
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d98e98f5f59ef4196d441db9e4f00d
+      internalID: 795690575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_129
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ea5249566a96f47a17af727cc81607
+      internalID: -902297503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_130
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95398d0f6db67da4e8836c104601a215
+      internalID: 773745537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octonid_normals_131
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cefa3ddb584be45b14e531f67a6e78
+      internalID: 449494284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      octonid_normals_0: 1959945491
+      octonid_normals_1: 424551509
+      octonid_normals_10: -1179166535
+      octonid_normals_100: -363064138
+      octonid_normals_101: -841823367
+      octonid_normals_102: -667248762
+      octonid_normals_103: 771810402
+      octonid_normals_104: 2063851829
+      octonid_normals_105: -1842688606
+      octonid_normals_106: -1185124211
+      octonid_normals_107: -1640574596
+      octonid_normals_108: 448285375
+      octonid_normals_109: -1866728504
+      octonid_normals_11: -442274610
+      octonid_normals_110: 1812692846
+      octonid_normals_111: 726266882
+      octonid_normals_112: 454942859
+      octonid_normals_113: -602003594
+      octonid_normals_114: -281050571
+      octonid_normals_115: 254673430
+      octonid_normals_116: -169909686
+      octonid_normals_117: -2021430586
+      octonid_normals_118: 644408299
+      octonid_normals_119: -1279977324
+      octonid_normals_12: 603516060
+      octonid_normals_120: 328774118
+      octonid_normals_121: -1927809654
+      octonid_normals_122: 522855968
+      octonid_normals_123: 358183437
+      octonid_normals_124: 91411663
+      octonid_normals_125: -1530240329
+      octonid_normals_126: -827365462
+      octonid_normals_127: -1047118265
+      octonid_normals_128: 795690575
+      octonid_normals_129: -902297503
+      octonid_normals_13: -2036350984
+      octonid_normals_130: 773745537
+      octonid_normals_131: 449494284
+      octonid_normals_14: 673851869
+      octonid_normals_15: -1944421829
+      octonid_normals_16: 721617351
+      octonid_normals_17: -891842482
+      octonid_normals_18: -2135669806
+      octonid_normals_19: -1275195356
+      octonid_normals_2: 2112994844
+      octonid_normals_20: -452734423
+      octonid_normals_21: -107068827
+      octonid_normals_22: 2083651319
+      octonid_normals_23: 1457094370
+      octonid_normals_24: -353255515
+      octonid_normals_25: -123723696
+      octonid_normals_26: 1839018601
+      octonid_normals_27: -1614559672
+      octonid_normals_28: -1282398657
+      octonid_normals_29: -1842160108
+      octonid_normals_3: -911840539
+      octonid_normals_30: -683722226
+      octonid_normals_31: -136050544
+      octonid_normals_32: 388860761
+      octonid_normals_33: 1245876971
+      octonid_normals_34: -811914430
+      octonid_normals_35: 843529945
+      octonid_normals_36: 2126666859
+      octonid_normals_37: -1252418175
+      octonid_normals_38: 137974821
+      octonid_normals_39: -717482935
+      octonid_normals_4: -1827042573
+      octonid_normals_40: -2036503066
+      octonid_normals_41: 335883600
+      octonid_normals_42: 439181832
+      octonid_normals_43: -700388326
+      octonid_normals_44: -502579006
+      octonid_normals_45: 1896000557
+      octonid_normals_46: -215296946
+      octonid_normals_47: -629964400
+      octonid_normals_48: 425124168
+      octonid_normals_49: -274967552
+      octonid_normals_5: 1012160747
+      octonid_normals_50: 839780760
+      octonid_normals_51: 498325842
+      octonid_normals_52: -1290289778
+      octonid_normals_53: 67257700
+      octonid_normals_54: -903150970
+      octonid_normals_55: -1256070859
+      octonid_normals_56: 340872384
+      octonid_normals_57: 1698940003
+      octonid_normals_58: 1192244662
+      octonid_normals_59: 1131515177
+      octonid_normals_6: 195069020
+      octonid_normals_60: -452314603
+      octonid_normals_61: 392840934
+      octonid_normals_62: -1714530514
+      octonid_normals_63: 1361870738
+      octonid_normals_64: -219507340
+      octonid_normals_65: 349403364
+      octonid_normals_66: -1420558292
+      octonid_normals_67: -1835702742
+      octonid_normals_68: 1501731741
+      octonid_normals_69: 1302192038
+      octonid_normals_7: -2105442902
+      octonid_normals_70: -390142916
+      octonid_normals_71: -92980829
+      octonid_normals_72: 853683058
+      octonid_normals_73: 1954401826
+      octonid_normals_74: -243874279
+      octonid_normals_75: -1536493025
+      octonid_normals_76: -1028695531
+      octonid_normals_77: 1669955454
+      octonid_normals_78: -1441846123
+      octonid_normals_79: 854844235
+      octonid_normals_8: 1756678322
+      octonid_normals_80: 1881967788
+      octonid_normals_81: -381209176
+      octonid_normals_82: -133458530
+      octonid_normals_83: 1363261064
+      octonid_normals_84: -1543314325
+      octonid_normals_85: -1265112354
+      octonid_normals_86: -1205202182
+      octonid_normals_87: -1392425929
+      octonid_normals_88: 748005736
+      octonid_normals_89: 1271265987
+      octonid_normals_9: -1441299557
+      octonid_normals_90: 639968149
+      octonid_normals_91: 1256418769
+      octonid_normals_92: -498131300
+      octonid_normals_93: -1767621138
+      octonid_normals_94: 1586976800
+      octonid_normals_95: 799849232
+      octonid_normals_96: -946965265
+      octonid_normals_97: 1885317815
+      octonid_normals_98: 1174461238
+      octonid_normals_99: 1927798899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
