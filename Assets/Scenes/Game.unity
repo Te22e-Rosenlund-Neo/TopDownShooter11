@@ -235,6 +235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slider
       objectReference: {fileID: 0}
+    - target: {fileID: 2863912410461981187, guid: 2f78c3cea3d3ad74c9e598b26b8fc21b, type: 3}
+      propertyPath: m_TagString
+      value: HealthBar
+      objectReference: {fileID: 0}
     - target: {fileID: 3255911833019765105, guid: 2f78c3cea3d3ad74c9e598b26b8fc21b, type: 3}
       propertyPath: m_SortingOrder
       value: 1

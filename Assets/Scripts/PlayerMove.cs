@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
 public class PlayerMove : MonoBehaviour
 {
     float TimeBetweenShots = 0.3f;
@@ -13,16 +14,20 @@ public class PlayerMove : MonoBehaviour
     float Speed = 6;
     public int PlayerHealth = 10;
     public bool PossibleShooting = true;
+    public bool ChangeTargetedSlider = false;
+  public Slider HealthBar;
 
-  [SerializeField] Slider HealthBar;
-
-    void Awake(){
+    void Start(){
       Object.DontDestroyOnLoad(gameObject);
+      HealthBar = Canvas.FindAnyObjectByType<Slider>();
+      
     }
     void Update()
     {
-      
-
+        if(ChangeTargetedSlider == true){
+          HealthBar = Canvas.FindObjectOfType<Slider>();
+        }
+        
 
         float MoveX = Input.GetAxisRaw("Horizontal");
         float MoveY = Input.GetAxisRaw("Vertical");
