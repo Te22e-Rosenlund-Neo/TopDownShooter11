@@ -12,6 +12,7 @@ public class RangeEnemyScript : MonoBehaviour
      [SerializeField] GameObject enemyProjectile;
     public float TimeBetweenShots = 0.6f;
     public float TimeSinceLastShot;
+      public  AudioClip Death;
     void Start(){
         Player = GameObject.FindWithTag("Player");
     }
@@ -25,6 +26,7 @@ public class RangeEnemyScript : MonoBehaviour
         
         if(Ehealth <= 0){
             transform.parent.GetComponent<EnemyExisting>().EnemyAmount --;
+             AudioSource.PlayClipAtPoint(Death, new Vector2(0, 0));
             Destroy(gameObject);
         }
 

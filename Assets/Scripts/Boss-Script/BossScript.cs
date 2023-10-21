@@ -17,6 +17,8 @@ public class BossScript : MonoBehaviour
   [SerializeField] GameObject projectile3;
   [SerializeField] Sprite Phase2;
   [SerializeField] Sprite Dead;
+  public  AudioClip Death;
+  public  AudioClip Start;
 
   public int Attack1ProjSpeed = 6;
 
@@ -26,7 +28,7 @@ public class BossScript : MonoBehaviour
   void Awake()
   {
     GameObject Player = GameObject.FindWithTag("Player");
-
+      AudioSource.PlayClipAtPoint(Start, new Vector2(0, 0));
 
 
   }
@@ -37,10 +39,7 @@ public class BossScript : MonoBehaviour
     healthbar.value = Health;
 
 //Proceeds the game into the gameover screen
-    if (Health == 0)
-    {
-      SceneManager.LoadScene(3);
-    }
+
 
     //If the boss's health is below 50, it evolves into phase 2, (faster attack speed, introduce special attack, more attacks)
     if (Health > 50)
@@ -61,6 +60,8 @@ public class BossScript : MonoBehaviour
     if (Health <= 0)
     {
       GetComponent<SpriteRenderer>().sprite = Dead;
+        AudioSource.PlayClipAtPoint(Death, new Vector2(0, 0));
+      SceneManager.LoadScene(3);
     }
 
 

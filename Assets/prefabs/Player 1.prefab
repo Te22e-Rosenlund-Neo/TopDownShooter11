@@ -104,7 +104,9 @@ MonoBehaviour:
   Gun: {fileID: 7075008520616230183}
   PlayerHealth: 10
   PossibleShooting: 1
+  ChangeTargetedSlider: 0
   HealthBar: {fileID: 2575558773963375657, guid: 2f78c3cea3d3ad74c9e598b26b8fc21b, type: 3}
+  Shot: {fileID: 8300000, guid: 30e0c0f78de589c4394b706a1730c9a7, type: 3}
 --- !u!61 &2338447227311364074
 BoxCollider2D:
   m_ObjectHideFlags: 0

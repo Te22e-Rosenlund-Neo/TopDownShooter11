@@ -104,6 +104,7 @@ MonoBehaviour:
   MoveSpeed: 7
   Ehealth: 5
   healthbar: {fileID: 7019992697261761196}
+  Death: {fileID: 8300000, guid: 5015e7a2005ade2409aadb504c2f4f7e, type: 3}
 --- !u!50 &3429172566810871269
 Rigidbody2D:
   serializedVersion: 4

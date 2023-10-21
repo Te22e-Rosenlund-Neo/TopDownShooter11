@@ -16,6 +16,7 @@ public class PlayerMove : MonoBehaviour
     public bool PossibleShooting = true;
     public bool ChangeTargetedSlider = false;
   public Slider HealthBar;
+  public  AudioClip Shot;
 
     void Start(){
       Object.DontDestroyOnLoad(gameObject);
@@ -63,6 +64,7 @@ public class PlayerMove : MonoBehaviour
 
         TimeSinceLastShot = 0;
         Instantiate(Bolt, Gun.transform.position, Quaternion.identity);
+        AudioSource.PlayClipAtPoint(Shot, new Vector2(0, 0));
 
         }
 

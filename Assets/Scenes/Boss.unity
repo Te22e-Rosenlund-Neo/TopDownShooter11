@@ -446,6 +446,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -363064138, guid: 54b5230bb769dc5448f429b4159d743c, type: 3}
     - target: {fileID: 5592363973038108593, guid: 7d3cce5ebd1720b46b107f88e395a008, type: 3}
+      propertyPath: Death
+      value: 
+      objectReference: {fileID: 8300000, guid: b69412a7bbedb204db35b5df449f8f73, type: 3}
+    - target: {fileID: 5592363973038108593, guid: 7d3cce5ebd1720b46b107f88e395a008, type: 3}
+      propertyPath: Start
+      value: 
+      objectReference: {fileID: 8300000, guid: b69412a7bbedb204db35b5df449f8f73, type: 3}
+    - target: {fileID: 5592363973038108593, guid: 7d3cce5ebd1720b46b107f88e395a008, type: 3}
       propertyPath: Phase2
       value: 
       objectReference: {fileID: -133458530, guid: 54b5230bb769dc5448f429b4159d743c, type: 3}

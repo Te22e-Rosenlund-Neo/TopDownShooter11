@@ -519,6 +519,7 @@ MonoBehaviour:
   enemyProjectile: {fileID: 8493095571043211199, guid: 6ff00006a8523d044878a337d7273c2b, type: 3}
   TimeBetweenShots: 0.6
   TimeSinceLastShot: 0
+  Death: {fileID: 8300000, guid: 5015e7a2005ade2409aadb504c2f4f7e, type: 3}
 --- !u!1 &6063425704833428815
 GameObject:
   m_ObjectHideFlags: 0

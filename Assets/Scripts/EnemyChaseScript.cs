@@ -10,6 +10,7 @@ public class EnemyChaseScript : MonoBehaviour
    public int Ehealth = 5;
     float timeBetweenAttacks = 0f;
      public Slider healthbar;
+       public  AudioClip Death;
     void Start(){
         Player = GameObject.FindWithTag("Player");
     }
@@ -27,6 +28,7 @@ public class EnemyChaseScript : MonoBehaviour
     
         if(Ehealth <= 0){
             transform.parent.GetComponent<EnemyExisting>().EnemyAmount --;
+            AudioSource.PlayClipAtPoint(Death, new Vector2(0, 0));
             Destroy(gameObject);
         }
 
