@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Unity.UI;
 using UnityEngine.UI;
 using System;
 using UnityEngine.SceneManagement;
@@ -9,7 +8,6 @@ public class BossScript : MonoBehaviour
 {
 
   public int Health = 100;
-
 
   [SerializeField] Slider healthbar;
   [SerializeField] GameObject projectile1;

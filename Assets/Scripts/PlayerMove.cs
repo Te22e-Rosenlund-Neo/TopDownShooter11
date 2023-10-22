@@ -71,6 +71,7 @@ public class PlayerMove : MonoBehaviour
         if(PlayerHealth <= 0){
           SceneManager.LoadScene(3);
           Destroy(gameObject);
+          
         }
         
      
